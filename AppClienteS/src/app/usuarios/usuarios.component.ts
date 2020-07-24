@@ -23,6 +23,7 @@ export class UsuariosComponent implements OnInit {
         console.error(error)
       }
     )
+    
   }
 
 }
